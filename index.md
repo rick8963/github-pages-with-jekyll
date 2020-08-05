@@ -44,3 +44,4 @@ ipmitool chassis identify <time | 0 | force> #default:15s
 ## reference
 http://benjr.tw/11240
 
+###### NEW
